@@ -1,1 +1,2 @@
 # Finance-Analysis-Dashboard
+Designed and implemented a Finance Analysis Dashboard to evaluate transaction performance, customer behavior, and regional trends across 14.9K+ financial records. Utilized Power BI, DAX, and Power Query to create dynamic visualizations and KPI reports, improving reporting efficiency and supporting strategic business decisions. Delivered actionable insights that helped uncover high-performing customer segments and regional growth opportunities.
